@@ -1,5 +1,5 @@
 # Android-Compass-Application
-A basic compass application for Android
+A basic compass application for Android. The application serves as a template for an Android application
 
 The actual application can be found here: https://play.google.com/store/apps/details?id=com.wordpress.httpstheredefiningproductions.coolcompass
 
